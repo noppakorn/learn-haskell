@@ -15,6 +15,33 @@ Want to try out the [xmonad](https://xmonad.org/) window manager. It use Haskell
 > - [x] I'm a list comprehension
 > - [x] Tuples
 3. Types and Typeclasses
-> - [ ] Believe the type
-> - [ ] Type variables
-> - [ ] Typeclasses 101
+> - [X] Believe the type
+> - [X] Type variables
+> - [X] Typeclasses 101
+4. Syntax in Functions
+> - [ ] Pattern matching
+> - [ ] Guards, guards!
+> - [ ] Where!?
+> - [ ] Let it be
+> - [ ] Case expressions
+5. Recursion
+> - [ ] Hello recursion!
+> - [ ] Maximum awesome
+> - [ ] A few more recursive functions
+> - [ ] Quick, sort!
+> - [ ] Thinking recursively
+6. Higher Order Functions
+> - [ ] Curried functions
+> - [ ] Some higher-orderism is in order
+> - [ ] Maps and filters
+> - [ ] Lambdas
+> - [ ] Only folds and horses
+> - [ ] Function application with $
+> - [ ] Function composition
+7. Modules
+> - [ ] Loading modules
+> - [ ] Data.List
+> - [ ] Data.Char
+> - [ ] Data.Map
+> - [ ] Data.Set
+> - [ ] Making our own modules
